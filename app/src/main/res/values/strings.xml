@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firstpage</string>
+    <string name="signin">Sign In</string>
+    <string name="s_email">Email</string>
+    <string name="si_pw">Password</string>
+    <string name="sign_button">Sign in and Continue</string>
+    <string name="button">Sign In</string>
+    <string name="button_2">Sign Up</string>
+
+</resources>
